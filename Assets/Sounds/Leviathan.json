@@ -1,0 +1,46 @@
+{
+  "id": "fu5EVJ3sN2tijSMQ",
+  "name": "Leviathan",
+  "created": "2025-08-27T18:54:53.748Z",
+  "description": "Soundscape Adventure!",
+  "playlistId": "FYrzwBBvGkILSx3O",
+  "version": 2,
+  "moods": {
+    "EvLrew1KtJE0iegJ": {
+      "id": "EvLrew1KtJE0iegJ",
+      "name": "Leviathan Roars",
+      "categories": [
+        {
+          "id": "",
+          "name": "None",
+          "type": 1,
+          "collapsed": false,
+          "sounds": []
+        },
+        {
+          "id": "",
+          "name": "None",
+          "type": 2,
+          "collapsed": false,
+          "sounds": []
+        },
+        {
+          "id": "",
+          "name": "None",
+          "type": 3,
+          "collapsed": false,
+          "sounds": []
+        },
+        {
+          "id": "",
+          "name": "None",
+          "type": 7,
+          "collapsed": false,
+          "sounds": []
+        }
+      ],
+      "active_groups": [],
+      "sounds": []
+    }
+  }
+}
