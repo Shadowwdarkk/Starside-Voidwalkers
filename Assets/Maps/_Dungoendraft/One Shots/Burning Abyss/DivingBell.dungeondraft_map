@@ -72,8 +72,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 1000, 900 )",
-			"camera_zoom": 2.666667,
+			"camera_position": "Vector2( 747.733, 1105.07 )",
+			"camera_zoom": 3.2,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -186,10 +186,10 @@
 				]
 			},
 			"object_library_memory": {
-				"mode": "tags",
-				"scroll": 5692,
+				"mode": "all",
+				"scroll": 6112,
 				"selected": [
-					"res://packs/RZWwcKA7/textures/objects/Tech Apparatus C.webp"
+					"res://packs/SF3YhCaj/textures/objects/[ADA]CRATES/[ADA]24_crate_1_1_1_1.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -208,7 +208,7 @@
 		"format": 3,
 		"width": 8,
 		"height": 8,
-		"next_node_id": "1e",
+		"next_node_id": "2f",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -323,28 +323,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_cave.png",
-						"3": "res://textures/tilesets/simple/tileset_concrete.png",
-						"4": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"5": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"6": "res://textures/tilesets/simple/tileset_cobble.png",
+						"2": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"3": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"4": "res://textures/tilesets/simple/tileset_cobble.png",
+						"5": "res://textures/tilesets/simple/tileset_carpet.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_running.png",
 						"7": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"8": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"9": "res://textures/tilesets/simple/tileset_carpet.png",
-						"10": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"11": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"12": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"8": "res://textures/tilesets/simple/tileset_cave.png",
+						"9": "res://textures/tilesets/simple/tileset_concrete.png",
+						"10": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"11": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"12": "res://textures/tilesets/simple/tileset_cut_stone.png",
 						"13": "res://textures/tilesets/simple/tileset_plank_45.png",
 						"14": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"15": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"16": "res://textures/tilesets/simple/tileset_sewers.png",
+						"15": "res://textures/tilesets/simple/tileset_sewers.png",
+						"16": "res://textures/tilesets/simple/tileset_roman_tiles.png",
 						"17": "res://textures/tilesets/simple/tileset_diamond.png",
-						"18": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"18": "res://textures/tilesets/simple/tileset_roman_worn.png",
 						"19": "res://textures/tilesets/simple/tileset_ornate.png",
-						"20": "res://textures/tilesets/simple/tileset_straw.png",
-						"21": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"22": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"23": "res://textures/tilesets/simple/tileset_wood_interlaced.png"
+						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"22": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"23": "res://textures/tilesets/simple/tileset_straw.png"
 					}
 				},
 				"patterns": [
@@ -413,6 +413,17 @@
 
 				],
 				"objects": [
+					{
+						"position": "Vector2( 384, 1152 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Culinary/flour_dust_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "24"
+					},
 					{
 						"position": "Vector2( 293.333, 1216 )",
 						"rotation": -0.261799,
@@ -545,6 +556,188 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "1c"
+					},
+					{
+						"position": "Vector2( 896, 1024 )",
+						"rotation": 1.047198,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_04.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1e"
+					},
+					{
+						"position": "Vector2( 1664, 512 )",
+						"rotation": -1.832596,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_04.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1f"
+					},
+					{
+						"position": "Vector2( 512, 512 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_04.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "20"
+					},
+					{
+						"position": "Vector2( 384, 1792 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_04.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "21"
+					},
+					{
+						"position": "Vector2( 1536, 1664 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_04.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "22"
+					},
+					{
+						"position": "Vector2( 1664, 1408 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Culinary/flour_dust_02.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23"
+					},
+					{
+						"position": "Vector2( 1920, 896 )",
+						"rotation": -1.832596,
+						"scale": "Vector2( 0.8, 0.8 )",
+						"mirror": false,
+						"texture": "res://packs/RZWwcKA7/textures/objects/Chair A - Colorable Features.png",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "25"
+					},
+					{
+						"position": "Vector2( 1920, 1152 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.8, 0.8 )",
+						"mirror": false,
+						"texture": "res://packs/RZWwcKA7/textures/objects/Chair A - Colorable Features.png",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "26"
+					},
+					{
+						"position": "Vector2( 1829.33, 1404.27 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 0.8, 0.8 )",
+						"mirror": false,
+						"texture": "res://packs/RZWwcKA7/textures/objects/Chair A - Colorable Features.png",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "27"
+					},
+					{
+						"position": "Vector2( 1675.73, 1641.07 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 0.8, 0.8 )",
+						"mirror": false,
+						"texture": "res://packs/RZWwcKA7/textures/objects/Chair A - Colorable Features.png",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "28"
+					},
+					{
+						"position": "Vector2( 1435.73, 1820.27 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.8, 0.8 )",
+						"mirror": false,
+						"texture": "res://packs/RZWwcKA7/textures/objects/Chair A - Colorable Features.png",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "29"
+					},
+					{
+						"position": "Vector2( 1134.93, 1929.07 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.8, 0.8 )",
+						"mirror": false,
+						"texture": "res://packs/RZWwcKA7/textures/objects/Chair A - Colorable Features.png",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff61788d",
+						"node_id": "2a"
+					},
+					{
+						"position": "Vector2( 296.533, 1228.27 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.8, 0.8 )",
+						"mirror": false,
+						"texture": "res://packs/SF3YhCaj/textures/objects/[ADA]CRATES/[ADA]24_crate_2_1_2_1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2b"
+					},
+					{
+						"position": "Vector2( 606.933, 1580.27 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1.96, 1.96 )",
+						"mirror": false,
+						"texture": "res://packs/SF3YhCaj/textures/objects/[ADA]CRATES/[ADA]24_crate_1_1_1_1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2c"
+					},
+					{
+						"position": "Vector2( 587.733, 1461.87 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/SF3YhCaj/textures/objects/[ADA]CRATES/[ADA]24_crate_2_1_2_1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2d"
+					},
+					{
+						"position": "Vector2( 635.733, 1599.47 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/SF3YhCaj/textures/objects/[ADA]CRATES/[ADA]24_crate_1_1_1_1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2e"
 					}
 				],
 				"lights": [
